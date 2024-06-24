@@ -43,20 +43,10 @@ branch : master
 
 ## 개발 환경
 ### <span style="color: white;">💻사용 프로그램💻</span> <br>
-<img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=gray"/><img src="https://img.shields.io/badge/mysql-2E64FE?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/visualstudiocode-81BEF7?style=flat-square&logo=visualstudiocode&logoColor=blue"/><img src="https://img.shields.io/badge/intellijidea-navy?style=flat-square&logo=intellijidea&logoColor=white"/><img src="https://img.shields.io/badge/github-black?style=-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=gray"/> <img src="https://img.shields.io/badge/mysql-2E64FE?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/visualstudiocode-81BEF7?style=flat-square&logo=visualstudiocode&logoColor=blue"/> <img src="https://img.shields.io/badge/intellijidea-navy?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/github-black?style=-square&logo=github&logoColor=white"/>
 
 ### <span style="color: white;">🛠개발 환경 🛠</span> <br>
-<img src="https://img.shields.io/badge/html5-green?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-blue?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/auth0-ccc?style=flat-square&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/chatbot-orange?style=flat-square&logo=chatbot&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-light?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/json-purple?style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/openapiinitiative-FA5858?style=flat-square&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/thymeleaf-0B610B?style=flat-square&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-0B610B?style=flat-square&logo=spring&logoColor=white"/>
-<img src="src/main/resources/static/images/readme/oAuth2.png" width="20" height="20"/> <br>
+<img src="https://img.shields.io/badge/html5-green?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/auth0-ccc?style=flat-square&logo=auth0&logoColor=white"/> <img src="https://img.shields.io/badge/chatbot-orange?style=flat-square&logo=chatbot&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-light?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/json-purple?style=flat-square&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/openapiinitiative-FA5858?style=flat-square&logo=openapiinitiative&logoColor=white"/> <img src="https://img.shields.io/badge/thymeleaf-0B610B?style=flat-square&logo=thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/spring-0B610B?style=flat-square&logo=spring&logoColor=white"/> <img src="src/main/resources/static/images/readme/oAuth2.png" width="20" height="20"/> <br>
 
 # ※ 팀원별 역할 ※
 - [ ] 박** (팀장) : DB설계, 회원 CRUD, Oauth2, Security, CI/CD
