@@ -43,11 +43,7 @@ branch : master
 
 ## 개발 환경
 ### <span style="color: white;">💻사용 프로그램💻</span> <br>
-<img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=gray"/>
-<img src="https://img.shields.io/badge/mysql-2E64FE?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/visualstudiocode-81BEF7?style=flat-square&logo=visualstudiocode&logoColor=blue"/>
-<img src="https://img.shields.io/badge/intellijidea-navy?style=flat-square&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-black?style=-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=notion&logoColor=gray"/><img src="https://img.shields.io/badge/mysql-2E64FE?style=flat-square&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/visualstudiocode-81BEF7?style=flat-square&logo=visualstudiocode&logoColor=blue"/><img src="https://img.shields.io/badge/intellijidea-navy?style=flat-square&logo=intellijidea&logoColor=white"/><img src="https://img.shields.io/badge/github-black?style=-square&logo=github&logoColor=white"/>
 
 ### <span style="color: white;">🛠개발 환경 🛠</span> <br>
 <img src="https://img.shields.io/badge/html5-green?style=flat-square&logo=html5&logoColor=white"/>
