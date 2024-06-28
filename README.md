@@ -111,6 +111,9 @@ branch : master
 5. [Index 페이지](#-Index-페이지-)
 6. [사이드바]()
 
+# 전체 ERD
+<img src="src/main/resources/static/images/readme/img_12.png" width="300px" height="300px"/> <br>
+<br>
 
 ## 1️⃣ 게시글 CRUD  
 글 작성시 게시글의 종류를 선택할 수 있습니다. 또한 작성자란에는 로그인한 회원의 이름이 출력되도록 했습니다.<br>
